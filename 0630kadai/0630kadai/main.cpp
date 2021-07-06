@@ -25,7 +25,7 @@
 //struct Vector2
 //{
 //public:
-//	void Setx(int setNum) { x=setNum; }
+//	void Setx(int num) { x=num; }
 //	void Sety(int num) { y=num; }
 //
 //	int Getx() { return x; }
@@ -55,7 +55,7 @@ struct Vector3
 {
 public:
 
-	void Setx(int Num) { x = Num; }
+	void Setx(int num) { x = num; }
 	void Sety(int num) { y = num; }
 	void Setz(int num) { z = num; }
 
